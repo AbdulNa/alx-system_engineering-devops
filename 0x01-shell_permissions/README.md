@@ -1,0 +1,1 @@
+script is allowing permisions
